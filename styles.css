@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Navbar Brand */
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  /* Footer */
+  footer {
+    margin-top: 20px;
+  }
+  
+  /* Hero Section */
+  header .container {
+    height: 80vh;
+  }
+  
+  /* Card Image Styling */
+  .card-img-top {
+    object-fit: cover;
+    height: 200px;
+  }
+  

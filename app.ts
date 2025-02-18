@@ -70,5 +70,4 @@ let studentDetail = {
     marks: 90,
     grade: "A",
     section: "A"
-
 }
